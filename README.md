@@ -1,2 +1,2 @@
-# numpy100
+## numpy100
 100 numpy exercises
